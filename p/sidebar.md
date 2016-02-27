@@ -1,10 +1,10 @@
 ![Meizhuo logo](../img/favicon.ico)
 
-# [silentor](.)
+## [HWade](.)
 
-> Be a silentor, focus on writting your words down
+> Stay hungry Stay foolish
 
-- [项目](projects/index.md)
-- [文档](docs/readme.md)
-- [专业](profession.md)
-- [关于](about.md)
+- [Diary](diary/index.md)
+- [Tech](tech/index.md)
+- [Album](album/index.md)
+- [About](about.md)

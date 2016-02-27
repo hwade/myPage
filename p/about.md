@@ -7,4 +7,4 @@ About Silentor
 > "Be a silentor, focus on writting your words down"
 
 
-**Github** [@meizhuo](https://github.com/Jayin/silentor)
+**Github** [@meizhuo](https://github.com/hwade/myPage)

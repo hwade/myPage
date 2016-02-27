@@ -1,4 +1,4 @@
-[silentor](https://github.com/Jayin/silentor), a friendly fork of [silent](https://github.com/fritx/silent)
+[myPage](https://github.com/hwade/myPage), a friendly fork of [silentor](https://github.com/Jayin/silentor)
 ========
 >Be a silentor, focus on writting your words down.
 
