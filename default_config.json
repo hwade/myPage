@@ -1,6 +1,0 @@
-{
-    "app_name": "mySite",
-    "img_root" : "img",
-    "markdown_root":"p" ,
-    "description":"基于Markdown,约定优于配置,极简主义的博客"
-}
