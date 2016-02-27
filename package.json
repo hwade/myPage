@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-concat": "^2.5.2",
     "gulp-minify-css": "^1.1.6",
     "gulp-rename": "^1.2.2",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jayin/silentor.git"
+    "url": "https://github.com/hwade/myPage.git"
   },
   "author": "Jayin Ton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jayin/silentor/issues"
+    "url": "https://github.com/hwade/myPage/issues"
   },
-  "homepage": "https://github.com/Jayin/silentor"
+  "homepage": "https://github.com/hwade/myPage"
 }
